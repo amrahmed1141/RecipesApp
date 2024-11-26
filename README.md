@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EasyFood
 EasyFood is an app that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
 
@@ -29,3 +30,7 @@ download apk app : https://www.mediafire.com/file/e2pteuagpozgdtm/Easy_food.apk/
 
 
 
+=======
+# RecipesApp
+an Android app using Kotlin With MVVM . It provides users with a collection of food recipes, The app integrates with Room database to store recipes locally, ensuring offline access, while Retrofit is used for fetching data from remote APIs. LiveData ensures that the UI is automatically updated with the latest data
+>>>>>>> d37ee4871c30c8a13be5a79f99d638ebddc8db97
